@@ -1,4 +1,1 @@
-Start project  -  npm start <br />
-main branch - .js <br />
-tstest branch - .ts <br />
-
+To start project use command "npm start" 
