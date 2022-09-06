@@ -1,0 +1,22 @@
+{
+  "name": "incora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "engines": {
+    "node": "17.5.0"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
